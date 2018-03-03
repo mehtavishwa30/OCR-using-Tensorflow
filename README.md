@@ -18,3 +18,11 @@ _We get the following text as output._
 
 Explain that Stuff! 0123456789
 
+### Sample code:
+
+    from skimage.io import imread
+    from OCRbud import ImgToStr
+    Image = imread('Foo.png')
+    Text = ImgToStr(Image)
+    print(Text)
+
