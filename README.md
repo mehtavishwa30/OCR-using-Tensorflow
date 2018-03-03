@@ -1,7 +1,8 @@
-# OCR-using-Tensorflow
+# OCRbud:
+## OCR-using-Tensorflow
 Image to machine encoded text using Python and Tensorflow.
 
-## What is OCR?
+### What is OCR?
 OCR is the acronym for Optical Character Recognition. It is used to convert images into machine-encoded text.
 
 ### What is OCRbud?
