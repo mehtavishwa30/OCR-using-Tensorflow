@@ -12,7 +12,7 @@ ___For instance:___
 
 _For the following input image,_ 
 
-    ![ocr-a-font-sample](https://user-images.githubusercontent.com/32997409/36937790-aac4c786-1f3e-11e8-8460-156e7d4615b7.png)
+   ![ocr-a-font-sample](https://user-images.githubusercontent.com/32997409/36937790-aac4c786-1f3e-11e8-8460-156e7d4615b7.png)
 
 _We get the following text as output._
 
