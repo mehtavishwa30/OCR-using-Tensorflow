@@ -22,7 +22,7 @@ _We get the following text as output._
 
     from skimage.io import imread
     from OCRbud import ImgToStr
-    Image = imread('Foo.png')
+    Image = imread('test.png')
     Text = ImgToStr(Image)
     print(Text)
 
